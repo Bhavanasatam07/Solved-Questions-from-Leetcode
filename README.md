@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
