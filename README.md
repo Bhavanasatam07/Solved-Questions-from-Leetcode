@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
