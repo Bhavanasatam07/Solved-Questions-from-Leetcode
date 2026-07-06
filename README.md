@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Greedy
