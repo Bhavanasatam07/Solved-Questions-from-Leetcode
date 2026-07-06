@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0045-jump-game-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
