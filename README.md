@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
