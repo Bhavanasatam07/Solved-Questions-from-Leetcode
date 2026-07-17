@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
