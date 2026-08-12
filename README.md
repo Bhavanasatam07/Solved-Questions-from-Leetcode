@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
