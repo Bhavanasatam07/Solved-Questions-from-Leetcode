@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
