@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
