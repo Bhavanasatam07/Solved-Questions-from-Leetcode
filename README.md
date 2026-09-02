@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Merge Sort
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
