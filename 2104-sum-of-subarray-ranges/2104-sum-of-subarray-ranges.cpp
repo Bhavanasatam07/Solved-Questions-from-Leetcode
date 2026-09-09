@@ -95,7 +95,7 @@ public:
             st.push(i);
         }
 
-        // Subtract minimum contribution
+        
         for (int i = 0; i < n; i++) {
 
             long long leftChoices = i - left[i];
