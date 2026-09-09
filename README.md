@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0283-move-zeroes) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -318,4 +320,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
