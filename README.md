@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0134-gas-station) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Bracket Sequences
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhavanasatam07/Solved-Questions-from-Leetcode/tree/master/0503-next-greater-element-ii) |
